@@ -18,7 +18,7 @@ This isn't your ordinary tic-tac-toe game. This time, you're up against a **powe
 
 3. **Open the Game in Your Browser**
     ```bash
-   Once the server is up and running, open http://localhost:3000 in your web browser.
+   Once the server is up and running, open http://localhost:5173 in your web browser.
 
 ## 🎮 **How to Play**
 Click on an empty cell to place your "X".
